@@ -20,6 +20,7 @@ public class PlayerController: MonoBehaviour
     }
 
     // Update is called once per frame
+    // This is what happens when the game is edited remotely...
     void Update()
     {
         //Moving Right
